@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "author": "Renee Vorbeck",
     "license": "MIT",
-    "homepage": "http://feora1343.github.io",
+    "homepage": "https://feora1343.github.io",
     "dependencies": {
         "axios": "^0.17.1",
         "babel-polyfill": "^6.26.0",
