@@ -1,0 +1,39 @@
+{
+    "name": "feora1343.github.io",
+    "version": "0.1.0",
+    "author": "Renee Vorbeck",
+    "license": "MIT",
+    "homepage": "http://feora1343.github.io",
+    "dependencies": {
+        "axios": "^0.17.1",
+        "babel-polyfill": "^6.26.0",
+        "material-icons": "^0.2.2",
+        "material-ui": "^1.0.0-beta.43",
+        "materialize-css": "^0.100.2",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0",
+        "react-router-dom": "^4.2.2",
+        "react-scripts": "1.0.17",
+        "react-scroll": "^1.7.9"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "deploy": "npm run build&&gh-pages -d build"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-stage-2": "^6.24.1",
+        "eslint": "^4.19.1",
+        "eslint-plugin-react": "^7.7.0",
+        "gh-pages": "^1.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Feora1343/feora1343.github.io.git"
+    }
+}
